@@ -29,7 +29,7 @@ npm start
 Open http://localhost:3000 in your browser to view the app.
 
 Video Preview
-<details> <summary>Watch Video Here</summary> [![Video Preview](https://i.imgur.com/example-thumbnail.jpg)](https://drive.google.com/file/d/1kh-8R18f6617CMK553idH0cLxHTeARB8/view?usp=sharing) </details>
+<details> <summary>Watch Video Here</summary> <details>https://drive.google.com/file/d/1kh-8R18f6617CMK553idH0cLxHTeARB8/view?usp=drive_link</details
 Contributing
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
