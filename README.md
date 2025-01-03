@@ -1,18 +1,15 @@
-
-Here is your updated README file with the video link from Google Drive included:
-
 MovieLand - A Movie Information App
 About
-Welcome to MovieLand! This project is a React-based web application that allows users to browse movie details, search for movies, and get real-time movie information from the OMDB API.
+Welcome to MovieLand! This is a React-based web application that allows users to browse movie details, search for movies, and get real-time information from the OMDB API.
 
 Features
 Search for movies by title.
-View detailed information like ratings, plot summaries, and cast.
-Watch trailers and movie details without leaving the app.
+View movie details like ratings, summaries, and cast.
+Watch trailers and more directly from the app.
 Responsive and user-friendly interface.
 Prerequisites
 Node.js and npm installed.
-A working internet connection.
+Internet connection.
 Installation
 Clone the repository:
 bash
